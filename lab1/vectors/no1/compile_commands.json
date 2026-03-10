@@ -1,0 +1,17 @@
+[
+  {
+    "file": "main.cpp",
+    "arguments": [
+      "c++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "main.o",
+      "main.cpp"
+    ],
+    "directory": "/Users/pijon/Documents/dev/sd-lab/lab1/vectors/no1",
+    "output": "main.o"
+  }
+]
