@@ -1,0 +1,15 @@
+[
+ {
+  "directory": "/Users/pijon/Documents/dev/sd-lab/lab2/spsc-queue",
+  "arguments": [
+   "/opt/homebrew/bin/g++-15",
+   "-std=c++23",
+   "-Iinclude",
+   "-c",
+   "-o",
+   "src/main.o",
+   "src/main.cpp"
+  ],
+  "file": "src/main.cpp"
+ }
+]
